@@ -24,7 +24,7 @@ Hvis du vil se alle øvelser jeg har brugt i dette semester kan du søge på [ex
   * Få deres hjerner sporet ind på at vi starter igen
     * tavlesnak om 1. semester
     * fitness øvelse
-  * Give et overblik
+  * Give et overblik over dette semester
 ## Dag 2
 ## Dag 3
 ## Dag 4
