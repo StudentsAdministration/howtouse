@@ -19,6 +19,12 @@ Hvis du vil se alle øvelser jeg har brugt i dette semester kan du søge på [ex
 
 
 ## Dag 1
+### Formål
+  * Installer IntelliJ
+  * Få deres hjerner sporet ind på at vi starter igen
+    * tavlesnak om 1. semester
+    * fitness øvelse
+  * Give et overblik
 ## Dag 2
 ## Dag 3
 ## Dag 4
