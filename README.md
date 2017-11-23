@@ -15,4 +15,5 @@ Alle blokke af lektioner (dage) har et identifikationsnummer. Den første underv
 ... 
 man kan også finde dem ved at søge på [01](https://github.com/StudentsAdministration?utf8=%E2%9C%93&q=01)
 
-
+## Øvelser
+Hvis du vil se alle øvelser jeg har brugt i dette semester kan du søge på [exercies](https://github.com/StudentsAdministration?utf8=✓&q=exercise&type=&language=)
