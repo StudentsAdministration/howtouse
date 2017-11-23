@@ -1,11 +1,10 @@
 # How to use
 
-A Description on how to use the materials from this organization.    
-This material is for educator use.
+How to use er en beskrivelse af hvordan du som underviser bruger materialet fra denne GitHub organization
+Materialet vedrører 2. semester softewarekostruktion på kea datamatikkeruddannelsen.
 
-This github organization contains the material for 2<sup>nd</sup> Software Construction at Kea CS education.
-
-An example of the semesterplan can be seen [here](https://studentsadministration.github.io/)  
+## Semesterplan
+Et eksempel på en semesterplan kan du se [her](https://studentsadministration.github.io/)  
 
 Alle blokke af lektioner (dage) har et identifikationsnummer. Den første undervisningsdag er nummer 1 osv. Alt materiale som jeg har brugt den første dag har derfor prefixet 01. Dvs. at agendaen, den gennemgået kode, øvelserne til dag 1 kan findes ved at lede efter alle repositories der starter med 01_     
 
