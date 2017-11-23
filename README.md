@@ -16,3 +16,35 @@ Hvis du vil se alt materiale til en bestemt undervisningsgang kan du også søge
 
 ## Øvelser
 Hvis du vil se alle øvelser jeg har brugt i dette semester kan du søge på [exercies](https://github.com/StudentsAdministration?utf8=✓&q=exercise&type=&language=)
+
+
+## Dag 1
+## Dag 2
+## Dag 3
+## Dag 4
+## Dag 5
+## Dag 6
+## Dag 7
+## Dag 8
+## Dag 9
+## Dag 10
+## Dag 11
+## Dag 12
+## Dag 13
+## Dag 14
+## Dag 15
+## Dag 16
+## Dag 17
+## Dag 18
+## Dag 19
+## Dag 20
+## Dag 21
+## Dag 22
+## Dag 23
+## Dag 24
+## Dag 25
+## Dag 26
+
+
+## Bidrag til materialet
+Hvis i har nogle forslag, ændringer, rettelser, øvelser, nye emner der kan medtages så sig til. Den smarte måde er at "forke" et repository, lave ændringer/forbedringer og herefter lave et pull request ([i kan se her hvordan det gøres]())
