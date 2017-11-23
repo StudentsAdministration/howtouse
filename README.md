@@ -12,7 +12,6 @@ Alle blokke af lektioner (dage) har et identifikationsnummer. Den første underv
 * [01_exercise_1]()
 * [01_hello_intellij]()
 
-... 
 Hvis du vil se alt materiale til en bestemt undervisningsgang kan du også søge på feks. [01](https://github.com/StudentsAdministration?utf8=%E2%9C%93&q=01)
 
 ## Øvelser
