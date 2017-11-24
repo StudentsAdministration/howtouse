@@ -24,13 +24,19 @@ Hvis du vil se alle agendaer jeg har brugt i dette semester kan du søge på [ag
 ## Det følgende giver et overblik over hver lektions formål
 ### [Dag 1](https://github.com/StudentsAdministration?utf8=✓&q=01)
 #### Formål
-  * Installer IntelliJ
-  * Få deres hjerner sporet ind på at vi starter igen
-    * tavlesnak om 1. semester
-    * fitness øvelse
-  * Give et overblik over dette semester
+* Installer IntelliJ
+* Få deres hjerner sporet ind på at vi starter igen
+  * tavlesnak om 1. semester
+  * fitness øvelse
+* Give et overblik over dette semester
 ### [Dag 2](https://github.com/StudentsAdministration?utf8=✓&q=02)
 ### [Dag 3](https://github.com/StudentsAdministration?utf8=✓&q=03)
+#### Formål
+* De skal kunne lave et "Sprig Boot Initializer" project
+* De skal kunne lave en controller
+* De skal kunne lave en metode der returnere en index.html side
+* de skal kunne lave en index.html side (de ved ikke noget om html endnu).
+
 ### Dag 4
 ### Dag 5
 ### Dag 6
