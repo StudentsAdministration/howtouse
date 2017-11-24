@@ -47,11 +47,13 @@ Det følgende giver et overblik over hver lektions formål
 * de skal kunne lave en index.html side (de ved ikke noget om html endnu).
 * De skal kunne se deres website i deres browser på http://loalhost:8080
 
-### Dag 4
+### [Dag 4](https://github.com/StudentsAdministration/04_agenda)
 #### Formål
 * At lære lige præcis nok HTML og CSS til at komme igang.
-### Dag 5
-### Dag 6
+
+Note: Som underviser skal du være opmærksom på at at html sider i en Spring Boot Application har et anstrængt forhold til html5 tags. Xhtml tags understøttes. (Dette kan dog have ændret sig i de efterfølgende semestre) 
+### [Dag 5](https://github.com/StudentsAdministration/05_agenda)
+### [Dag 6](https://github.com/StudentsAdministration/06_agenda)
 #### Formål
 * Få en Spring application til at fungere med alle crud metoder, hvor der skrives til en ArrayList
 * Model lagets repositories undlades og udskydes til næste gang.
