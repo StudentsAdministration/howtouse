@@ -48,6 +48,8 @@ Det følgende giver et overblik over hver lektions formål
 * De skal kunne se deres website i deres browser på http://loalhost:8080
 
 ### Dag 4
+#### Formål
+* At lære lige præcis nok HTML og CSS til at komme igang.
 ### Dag 5
 ### Dag 6
 ### Dag 7
