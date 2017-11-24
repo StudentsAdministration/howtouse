@@ -15,11 +15,14 @@ Alle blokke af lektioner (dage) har et identifikationsnummer. Den første underv
 Hvis du vil se alt materiale til en bestemt undervisningsgang kan du også søge på feks. [01](https://github.com/StudentsAdministration?utf8=%E2%9C%93&q=01)
 
 ## Øvelser
-Hvis du vil se alle øvelser jeg har brugt i dette semester kan du søge på [exercies](https://github.com/StudentsAdministration?utf8=✓&q=exercise&type=&language=)
+Hvis du vil se alle øvelser jeg har brugt i dette semester kan du søge på [exercise](https://github.com/StudentsAdministration?utf8=✓&q=exercise&type=&language=)
 
 ## Agedaer
+Hvis du vil se alle 26 agendaer jeg har brugt i dette semester kan du søge på [agenda](https://github.com/StudentsAdministration?utf8=✓&q=agenda&type=&language=)
 
-Hvis du vil se alle agendaer jeg har brugt i dette semester kan du søge på [agenda](https://github.com/StudentsAdministration?utf8=✓&q=agenda&type=&language=)
+## Curriculum
+Semesterets pensum kan du finde ved at kigge i listen [Curriculum](https://github.com/StudentsAdministration/curriculum), eller du kan finde alle de repositories der har noget pensum indhold ved at søge på [curriculum](https://github.com/StudentsAdministration?utf8=✓&q=curriculum)
+
 
 ## Det følgende giver et overblik over hver lektions formål
 ### [Dag 1](https://github.com/StudentsAdministration?utf8=✓&q=01)
