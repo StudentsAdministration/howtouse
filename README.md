@@ -23,8 +23,8 @@ Hvis du vil se alle 26 agendaer jeg har brugt i dette semester kan du søge på 
 ## Curriculum
 Semesterets pensum kan du finde ved at kigge i listen [Curriculum](https://github.com/StudentsAdministration/curriculum), eller du kan finde alle de repositories der har noget pensum indhold ved at søge på [curriculum](https://github.com/StudentsAdministration?utf8=✓&q=curriculum)
 
-
-## Det følgende giver et overblik over hver lektions formål
+## Lektionernes formål
+Det følgende giver et overblik over hver lektions formål
 ### [Dag 1](https://github.com/StudentsAdministration?utf8=✓&q=01)
 #### Formål
 * Installer IntelliJ
