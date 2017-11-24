@@ -52,6 +52,9 @@ Det følgende giver et overblik over hver lektions formål
 * At lære lige præcis nok HTML og CSS til at komme igang.
 ### Dag 5
 ### Dag 6
+#### Formål
+* Få en Spring application til at fungere med alle crud metoder, hvor der skrives til en ArrayList
+* Model lagets repositories undlades og udskydes til næste gang.
 ### Dag 7
 ### Dag 8
 ### Dag 9
