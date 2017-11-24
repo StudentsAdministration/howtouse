@@ -21,38 +21,39 @@ Hvis du vil se alle øvelser jeg har brugt i dette semester kan du søge på [ex
 
 Hvis du vil se alle agendaer jeg har brugt i dette semester kan du søge på [agenda](https://github.com/StudentsAdministration?utf8=✓&q=agenda&type=&language=)
 
-## Dag 1
-### Formål
+## Det følgende giver et overblik over hver lektions formål
+### Dag 1
+#### Formål
   * Installer IntelliJ
   * Få deres hjerner sporet ind på at vi starter igen
     * tavlesnak om 1. semester
     * fitness øvelse
   * Give et overblik over dette semester
-## Dag 2
-## Dag 3
-## Dag 4
-## Dag 5
-## Dag 6
-## Dag 7
-## Dag 8
-## Dag 9
-## Dag 10
-## Dag 11
-## Dag 12
-## Dag 13
-## Dag 14
-## Dag 15
-## Dag 16
-## Dag 17
-## Dag 18
-## Dag 19
-## Dag 20
-## Dag 21
-## Dag 22
-## Dag 23
-## Dag 24
-## Dag 25
-## Dag 26
+### Dag 2
+### Dag 3
+### Dag 4
+### Dag 5
+### Dag 6
+### Dag 7
+### Dag 8
+### Dag 9
+### Dag 10
+### Dag 11
+### Dag 12
+### Dag 13
+### Dag 14
+### Dag 15
+### Dag 16
+### Dag 17
+### Dag 18
+### Dag 19
+### Dag 20
+### Dag 21
+### Dag 22
+### Dag 23
+### Dag 24
+### Dag 25
+### Dag 26
 
 
 ## Bidrag til materialet
