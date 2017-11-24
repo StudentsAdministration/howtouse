@@ -17,6 +17,9 @@ Hvis du vil se alt materiale til en bestemt undervisningsgang kan du også søge
 ## Øvelser
 Hvis du vil se alle øvelser jeg har brugt i dette semester kan du søge på [exercies](https://github.com/StudentsAdministration?utf8=✓&q=exercise&type=&language=)
 
+## Agedaer
+
+Hvis du vil se alle agendaer jeg har brugt i dette semester kan du søge på [agenda](https://github.com/StudentsAdministration?utf8=✓&q=agenda&type=&language=)
 
 ## Dag 1
 ### Formål
