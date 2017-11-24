@@ -33,6 +33,8 @@ Det følgende giver et overblik over hver lektions formål
   * fitness øvelse
 * Give et overblik over dette semester
 ### [Dag 2](https://github.com/StudentsAdministration?utf8=✓&q=02)
+#### Formål
+* Gruppearbejde med Fitness Øvelsen
 ### [Dag 3](https://github.com/StudentsAdministration?utf8=✓&q=03)
 #### Formål
 * De skal kunne lave et "Sprig Boot Initializer" project
