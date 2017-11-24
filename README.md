@@ -36,6 +36,7 @@ Hvis du vil se alle agendaer jeg har brugt i dette semester kan du søge på [ag
 * De skal kunne lave en controller
 * De skal kunne lave en metode der returnere en index.html side
 * de skal kunne lave en index.html side (de ved ikke noget om html endnu).
+* De skal kunne se deres website i deres browser på http://loalhost:8080
 
 ### Dag 4
 ### Dag 5
