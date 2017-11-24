@@ -15,7 +15,9 @@ Alle blokke af lektioner (dage) har et identifikationsnummer. Den første underv
 Hvis du vil se alt materiale til en bestemt undervisningsgang kan du også søge på feks. [01](https://github.com/StudentsAdministration?utf8=%E2%9C%93&q=01)
 
 ## Øvelser
-Hvis du vil se alle øvelser jeg har brugt i dette semester kan du søge på [exercise](https://github.com/StudentsAdministration?utf8=✓&q=exercise&type=&language=)
+Hvis du vil se alle øvelser jeg har brugt i dette semester kan du søge på [exercise](https://github.com/StudentsAdministration?utf8=✓&q=exercise&type=&language=)    
+
+I mange af øvelserne ligger der en løsning af øvelsen i en solution branch. For eksempel har øvelse [03_create_spring_application](https://github.com/StudentsAdministration/03_create_spring_application/tree/master) en løsning liggende i [solution]()
 
 ## Agedaer
 Hvis du vil se alle 26 agendaer jeg har brugt i dette semester kan du søge på [agenda](https://github.com/StudentsAdministration?utf8=✓&q=agenda&type=&language=)
