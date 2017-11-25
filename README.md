@@ -32,9 +32,7 @@ Det følgende giver et overblik over hver lektions formål
 ### [Dag 1](https://github.com/StudentsAdministration?utf8=✓&q=01)
 #### Formål
 * Installer IntelliJ
-* Få deres hjerner sporet ind på at vi starter igen
-  * tavlesnak om 1. semester
-  * fitness øvelse
+* Få deres hjerner sporet ind på at vi starter igen gennem øvelser og snak
 * Give et overblik over dette semester
 ### [Dag 2](https://github.com/StudentsAdministration?utf8=✓&q=02)
 #### Formål
@@ -51,15 +49,16 @@ Det følgende giver et overblik over hver lektions formål
 #### Formål
 * At lære lige præcis nok HTML og CSS til at komme igang.
 
-Note: Som underviser skal du være opmærksom på at at html sider i en Spring Boot Application har et anstrængt forhold til html5 tags. Xhtml tags understøttes. (Dette kan dog have ændret sig i de efterfølgende semestre) 
+_Note: Som underviser skal du være opmærksom på at at html sider i en Spring Boot Application har et anstrængt forhold til html5 tags. Xhtml tags understøttes. (Dette kan dog have ændret sig i de efterfølgende semestre)_ 
+
 ### [Dag 5](https://github.com/StudentsAdministration/05_agenda)
 * Lave en index.html side med en liste af Studerende som denne:
-<img src="https://github.com/StudentsAdministration/05_agenda/blob/master/students_index.png" width="200px" /> 
+<img src="https://github.com/StudentsAdministration/05_agenda/blob/master/students_index.png" width="300px" /> 
 
 ### [Dag 6](https://github.com/StudentsAdministration/06_agenda)
 #### Formål
-* Få en Spring application til at fungere med alle crud metoder, hvor der skrives til en ArrayList
-* Model lagets repositories undlades og udskydes til næste gang.
+* Få de resterende Crud metoder (Create, readone, update, delete) til at virke til at fungere, der skrives stadig til en ArrayList
+
 ### Dag 7
 ### Dag 8
 ### Dag 9
