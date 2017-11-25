@@ -53,6 +53,9 @@ Det følgende giver et overblik over hver lektions formål
 
 Note: Som underviser skal du være opmærksom på at at html sider i en Spring Boot Application har et anstrængt forhold til html5 tags. Xhtml tags understøttes. (Dette kan dog have ændret sig i de efterfølgende semestre) 
 ### [Dag 5](https://github.com/StudentsAdministration/05_agenda)
+* Lave en index.html side med en liste af Studerende som denne:
+<img src="/students_index.png" width="200px" /> 
+
 ### [Dag 6](https://github.com/StudentsAdministration/06_agenda)
 #### Formål
 * Få en Spring application til at fungere med alle crud metoder, hvor der skrives til en ArrayList
