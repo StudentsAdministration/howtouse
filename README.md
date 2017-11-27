@@ -51,14 +51,28 @@ Det følgende giver et overblik over hver lektions formål
 
 _Note: Som underviser skal du være opmærksom på at at html sider i en Spring Boot Application har et anstrængt forhold til html5 tags. Xhtml tags understøttes. (Dette kan dog have ændret sig i de efterfølgende semestre)_ 
 
-### [Dag 5](https://github.com/StudentsAdministration/05_agenda)
+### [Dag 5](https://github.com/StudentsAdministration/05_agenda)    
+#### Formål
 * Lave en index.html side med en liste af Studerende som denne:
-<img src="https://github.com/StudentsAdministration/05_agenda/blob/master/students_index.png" width="300px" /> 
+<img src="https://github.com/StudentsAdministration/05_agenda/blob/master/students_index.png" width="300px" />     
+
+#### Emner i undervisningen
+* HTML - Tabeller
+* CSS - Meget simpel
+    * De får noget af os og vi forklare koncepterne.
+* Thymeleaf
+  * ````  th:text="$(student.firstName)" ````   
 
 ### [Dag 6](https://github.com/StudentsAdministration/06_agenda)
 #### Formål
 * Få de resterende Crud metoder (Create, readone, update, delete) til at virke til at fungere, der skrives stadig til en ArrayList
 
+#### Emner i undervisningen
+* Thymeleaf
+  * ````   th:Field="$(student.firstName)"  ````     
+  
+  
+  
 ### Dag 7
 ### Dag 8
 ### Dag 9
