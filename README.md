@@ -5,7 +5,12 @@ Materialet vedrører 2. semester softewarekostruktion på kea datamatikkeruddann
 
 * [Semesterplan](https://github.com/StudentsAdministration/howtouse/blob/master/README.md#semesterplan)
 * [Lektionernes formål](https://github.com/StudentsAdministration/howtouse/blob/master/README.md#lektionernes-formål)
-   * [Lek 1]()
+   * [Dag 1](https://github.com/StudentsAdministration/howtouse/blob/master/README.md#dag-1)
+   * [Dag 2](https://github.com/StudentsAdministration/howtouse/blob/master/README.md#dag-2)
+   * [Dag 3](https://github.com/StudentsAdministration/howtouse/blob/master/README.md#dag-3)
+   * [Dag 4](https://github.com/StudentsAdministration/howtouse/blob/master/README.md#dag-4)
+   * [Dag 5](https://github.com/StudentsAdministration/howtouse/blob/master/README.md#dag-5)
+ 
 * [ToDo](https://github.com/StudentsAdministration/howtouse/blob/master/README.md#todo)
 
 
