@@ -3,6 +3,10 @@
 How to use er en beskrivelse af hvordan du som underviser bruger materialet fra denne GitHub organization
 Materialet vedrører 2. semester softewarekostruktion på kea datamatikkeruddannelsen.
 
+* []()
+* [ToDo](https://github.com/StudentsAdministration/howtouse/blob/master/README.md#todo)
+
+
 ## Semesterplan
 Et eksempel på en semesterplan kan du se [her](https://studentsadministration.github.io/)  
 
