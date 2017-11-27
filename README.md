@@ -4,6 +4,8 @@ How to use er en beskrivelse af hvordan du som underviser bruger materialet fra 
 Materialet vedrører 2. semester softewarekostruktion på kea datamatikkeruddannelsen.
 
 * [Semesterplan](https://github.com/StudentsAdministration/howtouse/blob/master/README.md#semesterplan)
+* [Lektionernes formål](https://github.com/StudentsAdministration/howtouse/blob/master/README.md#lektionernes-formål)
+   * [Lek 1]()
 * [ToDo](https://github.com/StudentsAdministration/howtouse/blob/master/README.md#todo)
 
 
