@@ -99,4 +99,23 @@ _Note: Som underviser skal du være opmærksom på at at html sider i en Spring 
 Hvis i har nogle forslag, ændringer, rettelser, øvelser, nye emner der kan medtages så sig til. Den smarte måde er at "forke" et repository, lave ændringer/forbedringer og herefter lave et pull request ([i kan se her hvordan det gøres](https://help.github.com/articles/creating-a-pull-request-from-a-fork/))    
 
 ## TODO
+Todos in all repos
+
+* Git skal includeres i de første lektioner.
+* [#3 Annotations explained - skriv det](https://github.com/StudentsAdministration/03_annotations/blob/master/README.md)
+* [#4 Html, css (lav øvelser om table og div tags)](https://github.com/StudentsAdministration/04_agenda/blob/master/README.md)
+* [#5 Thyleaf (find literatur)](https://github.com/StudentsAdministration/05_agenda/blob/master/README.md)
+
+* [#6 Students List Tutorial](https://github.com/StudentsAdministration/06_tutorial_students_list/blob/master/README.md)
+* [#6 find literatur der forklare Model objectet] (https://github.com/StudentsAdministration/06_tutorial_students_list/blob/master/README.md)
+
+* Skriv literatur om model, model.addAttribute, thymeleaf ${stu.studentId} (passer til lek 05)
+
+* Lav tekst der forklarer @Annontations i forhold til Spring - Passer til lek 03-10
+
+* #16 Øvelse om at vise enrollments på details siden for en studerende. Includere mange til mange forbindelse mellem studerende og courses i students_courses tabellen og enrollments klassen
+
+* [SpringMvcStepByStep](https://github.com/StudentsAdministration/SpringMvcStepByStep) mulig literatur. Udemy kursus [Spring MVC For Beginners : Build Java Web App in 25 Steps](https://www.udemy.com/spring-mvc-tutorial-for-beginners-step-by-step/?altsc=366608) 
+
+* [GitIt skal evt. mmd](https://github.com/StudentsAdministration/GitIt/blob/master/README.md)
 
