@@ -60,16 +60,16 @@ _Note: Som underviser skal du være opmærksom på at at html sider i en Spring 
 * HTML - Tabeller
 * CSS - Meget simpel
     * De får noget af os og vi forklare koncepterne.
-* Thymeleaf
-  * ````  th:text="$(student.firstName)" ````   
+* Thymeleaf    
+ ````  th:text="$(student.firstName)" ````   
 
 ### [Dag 6](https://github.com/StudentsAdministration/06_agenda)
 #### Formål
 * Få de resterende Crud metoder (Create, readone, update, delete) til at virke til at fungere, der skrives stadig til en ArrayList
 
 #### Emner i undervisningen
-* Thymeleaf
-  * ````   th:Field="$(student.firstName)"  ````     
+* Thymeleaf    
+````   th:Field="$(student.firstName)"  ````     
   
   
   
