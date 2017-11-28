@@ -41,6 +41,7 @@ Det følgende giver et overblik over hver lektions formål
 * Installer IntelliJ
 * Få deres hjerner sporet ind på at vi starter igen gennem øvelser og snak
 * Give et overblik over dette semester
+* Start på Fitnees Øvelsen
 ### [Dag 2](https://github.com/StudentsAdministration?utf8=✓&q=02)
 #### Formål
 * Gruppearbejde med Fitness Øvelsen
