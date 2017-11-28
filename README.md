@@ -8,6 +8,10 @@ Et eksempel på en semesterplan kan du se [her](https://studentsadministration.g
 
 Alle blokke af lektioner (dage) har et identifikationsnummer. Den første undervisningsdag er nummer 1 osv. Alt materiale som jeg har brugt den første dag har derfor prefixet 01. Dvs. at agendaen, den gennemgået kode, øvelserne til dag 1 kan findes ved at lede efter alle repositories der starter med 01_     
 
+Altså: 
+
+<img src="https://github.com/StudentsAdministration/05_agenda/blob/master/students_index.png" width="300px" />
+
 * [01_agenda](https://github.com/StudentsAdministration/01_agenda)
 * [01_exercise_1]()
 * [01_hello_intellij]()
