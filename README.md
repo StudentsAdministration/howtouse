@@ -10,7 +10,7 @@ Alle blokke af lektioner (dage) har et identifikationsnummer. Den første underv
 
 Altså: 
 
-<img src="https://github.com/StudentsAdministration/05_agenda/blob/master/students_index.png" width="300px" />
+<img src="https://github.com/StudentsAdministration/howtouse/blob/master/img/studentsadmingithub.png" width="300px" />
 
 * [01_agenda](https://github.com/StudentsAdministration/01_agenda)
 * [01_exercise_1]()
