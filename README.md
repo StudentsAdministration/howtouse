@@ -26,6 +26,9 @@ I mange af øvelserne ligger der en løsning i en __solution branch__. For eksem
 Løsningerne er primært tænkt somhjælp til undervisere, men man kan selvfølgelig bruge dem som man finder pædagogisk bedst.
 
 ## Agendaer
+Agenderne er hvad de studerende ser før undervisningen, og det er "drejebogen" for undervisningen.    
+Dt er her du skal kigge hvis du vil have et overblik over hvad vi har lavet den pågældende dag.
+
 Hvis du vil se alle 26 agendaer jeg har brugt i dette semester kan du søge på [agenda](https://github.com/StudentsAdministration?utf8=✓&q=agenda&type=&language=)
 
 ## Curriculum
