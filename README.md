@@ -32,7 +32,7 @@ Dt er her du skal kigge hvis du vil have et overblik over hvad vi har lavet den 
 Hvis du vil se alle 26 agendaer jeg har brugt i dette semester kan du søge på [agenda](https://github.com/StudentsAdministration?utf8=✓&q=agenda&type=&language=)
 
 ## Curriculum
-Semesterets pensum kan du finde ved at kigge i listen [Curriculum](https://github.com/StudentsAdministration/curriculum), eller du kan finde alle de repositories der har noget pensum indhold ved at søge på [curriculum](https://github.com/StudentsAdministration?utf8=✓&q=curriculum)
+Semesterets pensum kan du finde ved at kigge i listen [Curriculum](https://github.com/StudentsAdministration/curriculum).
 
 ## Lektionernes formål
 Det følgende giver et overblik over hver lektions formål
