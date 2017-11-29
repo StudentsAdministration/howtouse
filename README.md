@@ -85,7 +85,13 @@ _Note: Som underviser skal du være opmærksom på at at html sider i en Spring 
   
   
 ### Dag 8
+#### Formål 
+* Fortsættelse af sidste gang
+
 ### Dag 9
+#### Formål 
+* Repositories
+* Interfaces
 ### Dag 10
 ### Dag 11
 ### Dag 12
