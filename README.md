@@ -4,19 +4,16 @@ How to use er en beskrivelse af hvordan du som underviser bruger materialet fra 
 Materialet vedrører 2. semester softewarekostruktion på kea datamatikkeruddannelsen.
 
 ## Semesterplan
-Et eksempel på en semesterplan kan du se [her](https://studentsadministration.github.io/)  
+Et eksempel på en semesterplan kan du se [her](https://studentsadministration.github.io/)    
+Hvis du vil redigere indholdet ligger html filerne i dette repository [studentsadministration.github.io](https://github.com/StudentsAdministration/studentsadministration.github.io)
 
-Alle blokke af lektioner (dage) har et identifikationsnummer. Den første undervisningsdag er nummer 1 osv. Alt materiale som jeg har brugt den første dag har derfor prefixet 01. Dvs. at agendaen, den gennemgået kode, øvelserne til dag 1 kan findes ved at lede efter alle repositories der starter med 01_     
+## Alt materiale
+Alle blokke af lektioner (dage) har et identifikationsnummer. Den første undervisningsdag er nummer 01 osv. 
+Prefixet (01_ etc.) gør at alt materiale til en specifik undervisningsgang kan findes ved at søge efter f.eks. 01.     
 
-Altså: 
+Hvis du vil se alt materiale til en bestemt undervisningsgang kan du også søge på feks. [01](https://github.com/StudentsAdministration?utf8=%E2%9C%93&q=01) ligesom her.    
 
 <img src="https://github.com/StudentsAdministration/howtouse/blob/master/img/studentsadmingithub.png" width="300px" />
-
-* [01_agenda](https://github.com/StudentsAdministration/01_agenda)
-* [01_exercise_1]()
-* [01_hello_intellij]()
-
-Hvis du vil se alt materiale til en bestemt undervisningsgang kan du også søge på feks. [01](https://github.com/StudentsAdministration?utf8=%E2%9C%93&q=01)
 
 ## Agendaer
 Agenderne er hvad de studerende ser før undervisningen, og det er "drejebogen" for undervisningen.    
