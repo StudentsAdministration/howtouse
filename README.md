@@ -61,7 +61,7 @@ _Note: Som underviser skal du være opmærksom på at at html sider i en Spring 
 
 ### [Dag 5](https://github.com/StudentsAdministration/05_agenda)    
 #### Formål
-* Lave en index.html side med en liste af Studerende som denne:
+* Lave en index.html side med en liste af Studerende som denne, der returneres og fyldes med data fra controlleren:
 <img src="https://github.com/StudentsAdministration/05_agenda/blob/master/students_index.png" width="300px" />     
 
 #### Emner i undervisningen
