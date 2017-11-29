@@ -13,7 +13,7 @@ Prefixet (01_ etc.) gør at alt materiale til en specifik undervisningsgang kan 
 
 Hvis du vil se alt materiale til en bestemt undervisningsgang kan du også søge på feks. [01](https://github.com/StudentsAdministration?utf8=%E2%9C%93&q=01) ligesom her.    
 
-<img src="https://github.com/StudentsAdministration/howtouse/blob/master/img/studentsadmingithub.png" width="300px" />
+<img src="https://github.com/StudentsAdministration/howtouse/blob/master/img/studentsadmin.png" width="300px" />
 
 ## Agendaer
 Agenderne er hvad de studerende ser før undervisningen, og det er "drejebogen" for undervisningen.    
