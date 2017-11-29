@@ -72,6 +72,10 @@ _Note: Som underviser skal du være opmærksom på at at html sider i en Spring 
  ````  th:text="$(student.firstName)" ````   
 
 ### [Dag 6](https://github.com/StudentsAdministration/06_agenda)
+#### Formål 
+* Fortsættelse af sidste gang
+
+### [Dag 7](https://github.com/StudentsAdministration/07_agenda)
 #### Formål
 * Få de resterende Crud metoder (Create, readone, update, delete) til at virke til at fungere, der skrives stadig til en ArrayList
 
@@ -80,8 +84,6 @@ _Note: Som underviser skal du være opmærksom på at at html sider i en Spring 
 ````   th:Field="$(student.firstName)"  ````     
   
   
-  
-### Dag 7
 ### Dag 8
 ### Dag 9
 ### Dag 10
