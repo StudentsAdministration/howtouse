@@ -18,6 +18,14 @@ Altså:
 
 Hvis du vil se alt materiale til en bestemt undervisningsgang kan du også søge på feks. [01](https://github.com/StudentsAdministration?utf8=%E2%9C%93&q=01)
 
+## Agendaer
+Agenderne er hvad de studerende ser før undervisningen, og det er "drejebogen" for undervisningen.    
+Det er her du skal kigge hvis du vil have et overblik over hvad vi har lavet den pågældende dag.    
+
+Alle agendaer er navngivet efter systemet 01_agenda, 02_agenda osv.    
+
+Hvis du vil se alle 26 agendaer jeg har brugt i dette semester kan du søge på [agenda](https://github.com/StudentsAdministration?utf8=✓&q=agenda&type=&language=)
+
 ## Øvelser
 Hvis du vil se alle øvelser jeg har brugt i dette semester kan du søge på [exercise](https://github.com/StudentsAdministration?utf8=✓&q=exercise&type=&language=)    
 
@@ -25,17 +33,12 @@ Hvis du vil se alle øvelser jeg har brugt i dette semester kan du søge på [ex
 I mange af øvelserne ligger der en løsning i en __solution branch__. For eksempel har øvelse [03_create_spring_application](https://github.com/StudentsAdministration/03_create_spring_application/tree/master) en løsning liggende i en **_solution.md_** fil i [solution branch](https://github.com/StudentsAdministration/03_create_spring_application/tree/solution).    
 Løsningerne er primært tænkt somhjælp til undervisere, men man kan selvfølgelig bruge dem som man finder pædagogisk bedst.
 
-## Agendaer
-Agenderne er hvad de studerende ser før undervisningen, og det er "drejebogen" for undervisningen.    
-Dt er her du skal kigge hvis du vil have et overblik over hvad vi har lavet den pågældende dag.
-
-Hvis du vil se alle 26 agendaer jeg har brugt i dette semester kan du søge på [agenda](https://github.com/StudentsAdministration?utf8=✓&q=agenda&type=&language=)
-
 ## Curriculum
 Semesterets pensum kan du finde ved at kigge i listen [Curriculum](https://github.com/StudentsAdministration/curriculum).
 
 ## Lektionernes formål
-Det følgende giver et overblik over hver lektions formål
+Det følgende giver et overblik over hver lektions formål, og hvilke emner jeg har berørt den pågældende dag.    
+
 ### [Dag 1](https://github.com/StudentsAdministration?utf8=✓&q=01)
 #### Formål
 * Installer IntelliJ
