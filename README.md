@@ -135,3 +135,5 @@ Todos in all repos
 
 * [GitIt skal evt. mmd](https://github.com/StudentsAdministration/GitIt/blob/master/README.md)
 
+* [Step by step - MysqlDump explanation]()
+
