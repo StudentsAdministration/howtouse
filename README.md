@@ -83,10 +83,10 @@ _Note: Som underviser skal du være opmærksom på at at html sider i en Spring 
 #### Formål 
 * Fortsættelse af sidste gang med resten af CRUD medtoderne
 
-<img src="https://github.com/StudentsAdministration/05_agenda/blob/master/read.png" width="300px" />
-<img src="https://github.com/StudentsAdministration/05_agenda/blob/master/details.png" width="300px" />
-<img src="https://github.com/StudentsAdministration/05_agenda/blob/master/update.png" width="300px" />
-<img src="https://github.com/StudentsAdministration/05_agenda/blob/master/delete.png" width="300px" />
+<img src="/img/read.png" width="300px" />
+<img src="/img/details.png" width="300px" />
+<img src="/img/update.png" width="300px" />
+<img src="/img/delete.png" width="300px" />
 
 ### [Dag 7](https://github.com/StudentsAdministration/07_agenda)
 #### Formål
