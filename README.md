@@ -95,17 +95,20 @@ _Note: Som underviser skal du være opmærksom på at at html sider i en Spring 
 * Recieving and displaying data in the View using Thymeleaf.
 * Sending data from the html page back to the Controller.
 * Routing ````GetMapping()```` and ````PostMapping()````    
+* Thymeleaf    
+   ````   th:Field="$(student.firstName)"  ````   
+   ````   <form method="post" th:action="@{/create}">
+            <input type="text" th:field="${student.name}" />
+          </form>  ````  
 
 _**TODO: Tutorial om READ, DETAILS, DELETE**_     
 _**TODO: UPDTATE Exercise**_
 
 ### [Dag 7](https://github.com/StudentsAdministration/07_agenda)
 #### Formål
-* Få de resterende Crud metoder (Create, readone, update, delete) til at virke til at fungere, der skrives stadig til en ArrayList
 
 #### Emner i undervisningen
-* Thymeleaf    
-````   th:Field="$(student.firstName)"  ````     
+  
   
   
 ### Dag 8
