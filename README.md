@@ -81,12 +81,23 @@ _Note: Som underviser skal du være opmærksom på at at html sider i en Spring 
 
 ### [Dag 6](https://github.com/StudentsAdministration/06_agenda)
 #### Formål 
-* Fortsættelse af sidste gang med resten af CRUD medtoderne
-
-<img src="/img/read.png" width="300px" />
+* Fortsættelse af sidste gang med resten af CRUD medtoderneog lave disse sider:
+<img src="/img/create.png" width="300px" />
 <img src="/img/details.png" width="300px" />
 <img src="/img/update.png" width="300px" />
-<img src="/img/delete.png" width="300px" />
+<img src="/img/delete.png" width="300px" />    
+
+#### Emner i undervisningen    
+* Html tags including the Form Tag
+* Styling through CSS
+* In both the HTML and CSS case, you will learn through the LTS method (Learning through stealing)
+* Sending data from the Controller by adding it to the "Model Object".
+* Recieving and displaying data in the View using Thymeleaf.
+* Sending data from the html page back to the Controller.
+* Routing ````GetMapping()```` and ````PostMapping()````    
+
+_**TODO: Tutorial om READ, DETAILS, DELETE**_
+_**TODO: UPDTATE Exercise**_
 
 ### [Dag 7](https://github.com/StudentsAdministration/07_agenda)
 #### Formål
