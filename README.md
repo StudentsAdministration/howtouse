@@ -76,6 +76,8 @@ _Note: Som underviser skal du være opmærksom på at at html sider i en Spring 
     * De får noget af os og vi forklare koncepterne.
 * Thymeleaf    
  ````  th:text="$(student.firstName)" ````   
+ ````  th:each="student: ${students}"````     
+ 
 
 ### [Dag 6](https://github.com/StudentsAdministration/06_agenda)
 #### Formål 
