@@ -96,7 +96,7 @@ _Note: Som underviser skal du være opmærksom på at at html sider i en Spring 
 * Sending data from the html page back to the Controller.
 * Routing ````GetMapping()```` and ````PostMapping()````    
 
-_**TODO: Tutorial om READ, DETAILS, DELETE**_
+_**TODO: Tutorial om READ, DETAILS, DELETE**_     
 _**TODO: UPDTATE Exercise**_
 
 ### [Dag 7](https://github.com/StudentsAdministration/07_agenda)
