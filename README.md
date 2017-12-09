@@ -46,9 +46,11 @@ Det følgende giver et overblik over hver lektions formål, og hvilke emner jeg 
 * Få deres hjerner sporet ind på at vi starter igen gennem øvelser og snak
 * Give et overblik over dette semester
 * Start på Fitnees Øvelsen
+
 ### [Dag 2](https://github.com/StudentsAdministration?utf8=✓&q=02)
 #### Formål
-* Gruppearbejde med Fitness Øvelsen
+* Genopfriskning af 1. semesters emner gennem gruppearbejde med Fitness Øvelsen.
+
 ### [Dag 3](https://github.com/StudentsAdministration?utf8=✓&q=03)
 #### Formål
 * De skal kunne lave et "Sprig Boot Initializer" project
