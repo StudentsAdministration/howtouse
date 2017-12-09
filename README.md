@@ -26,6 +26,8 @@ Alle agendaer er navngivet efter systemet 01_agenda, 02_agenda osv.
 Hvis du vil se alle 26 agendaer jeg har brugt i dette semester kan du desuden søge på [agenda](https://github.com/StudentsAdministration?utf8=✓&q=agenda&type=&language=)
 
 ## Øvelser
+[<sub>Link til alle øvelser</sub>](https://github.com/StudentsAdministration?utf8=%E2%9C%93&q=exercise&type=&language=)
+
 Hvis du vil se alle øvelser jeg har brugt i dette semester kan du søge på [exercise](https://github.com/StudentsAdministration?utf8=✓&q=exercise&type=&language=)    
 
 ### Løsninger til øvelserne
