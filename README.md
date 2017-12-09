@@ -97,9 +97,12 @@ _Note: Som underviser skal du være opmærksom på at at html sider i en Spring 
 * Routing ````GetMapping()```` and ````PostMapping()````    
 * Thymeleaf    
    ````   th:Field="$(student.firstName)"  ````   
-   ````   <form method="post" th:action="@{/create}">
+   
+   ````   
+         <form method="post" th:action="@{/create}">
             <input type="text" th:field="${student.name}" />
-          </form>  ````  
+          </form>  
+   ````  
 
 _**TODO: Tutorial om READ, DETAILS, DELETE**_     
 _**TODO: UPDTATE Exercise**_
