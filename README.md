@@ -16,7 +16,8 @@ Hvis du vil se alt materiale til en bestemt undervisningsgang kan du også søge
 <img src="https://github.com/StudentsAdministration/howtouse/blob/master/img/studentsadmin.png" width="300px" />
 
 ## Agendaer 
-[<sub>Link til alle agendaer</sub>](https://github.com/StudentsAdministration?utf8=%E2%9C%93&q=agenda&type=&language=)
+[<sub>Link til alle agendaer</sub>](https://github.com/StudentsAdministration?utf8=%E2%9C%93&q=agenda&type=&language=)    
+
 Agenderne er "drejebogen" for undervisningen.    
 Det er her du skal kigge hvis du vil have et overblik over hvad jeg har lavet den pågældende dag.    
 
