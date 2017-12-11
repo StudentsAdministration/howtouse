@@ -104,15 +104,10 @@ _Note: Som underviser skal du være opmærksom på at at html sider i en Spring 
           </form>  
    ````  
 
-_**TODO: Tutorial om READ, DETAILS, DELETE**_     
-_**TODO: UPDTATE Exercise**_
-
 ### [Dag 7](https://github.com/StudentsAdministration/07_agenda)
 #### Formål
 
 #### Emner i undervisningen
-  
-  
   
 ### Dag 8
 #### Formål 
