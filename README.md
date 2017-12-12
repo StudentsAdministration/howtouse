@@ -13,7 +13,7 @@ Prefixet (01_ etc.) gør at alt materiale til en specifik undervisningsgang kan 
 
 Hvis du vil se alt materiale til en bestemt undervisningsgang kan du også søge på feks. [01](https://github.com/StudentsAdministration?utf8=%E2%9C%93&q=01) ligesom her.    
 
-<img src="https://github.com/StudentsAdministration/howtouse/blob/master/img/studentsadmin.png" width="300px" />
+<a href="https://github.com/StudentsAdministration?utf8=%E2%9C%93&q=01"> <img src="https://github.com/StudentsAdministration/howtouse/blob/master/img/studentsadmin.png" width="300px" /></a>
 
 ## Agendaer 
 [<sub>Link til alle agendaer</sub>](https://github.com/StudentsAdministration?utf8=%E2%9C%93&q=agenda&type=&language=)    
