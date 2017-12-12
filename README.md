@@ -94,6 +94,7 @@ _Note: Som underviser skal du være opmærksom på at at html sider i en Spring 
 * Sending data from the Controller by adding it to the "Model Object".
 * Recieving and displaying data in the View using Thymeleaf.
 * Sending data from the html page back to the Controller.
+* Working with dates in the view and in the model
 * Routing ````GetMapping()```` and ````PostMapping()````    
 * Thymeleaf    
    ````   th:Field="$(student.firstName)"  ````   
