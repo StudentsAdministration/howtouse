@@ -181,3 +181,6 @@ Todos in all repos
 
 * Includer Singleton pattern i jdbc / Database undervisningen 
 
+
+
+_<div align="right">&copy; clbo@kea.dk</div>_
