@@ -81,7 +81,7 @@ _Note: Som underviser skal du være opmærksom på at at html sider i en Spring 
 
 ### [Dag 6](https://github.com/StudentsAdministration/06_agenda)
 #### Formål 
-* Fortsættelse af sidste gang med resten af CRUD medtoderneog lave disse sider:
+* Fortsættelse af sidste gang med resten af CRUD medtoderne og lave disse sider:
 <img src="/img/create.png" width="300px" />
 <img src="/img/details.png" width="300px" />
 <img src="/img/update.png" width="300px" />
@@ -107,18 +107,36 @@ _Note: Som underviser skal du være opmærksom på at at html sider i en Spring 
 
 ### [Dag 7](https://github.com/StudentsAdministration/07_agenda)
 #### Formål
+* Fortsættelse af dag 6
+* Få det de mangler af det fra sidst på plads. 
 
 #### Emner i undervisningen
   
 ### Dag 8
 #### Formål 
-* Fortsættelse af sidste gang
+* Tilføje repositories til StudentsAdministration applikationen.
+* Lære om interfaces og fordelene ved disse
+   * Udviklingsmetode (en kontrakt)
+   * StudentsInMemoryRepository
+   * StudentsTextFileRepository
+   * Senere StudentsDbRepository
 
 ### Dag 9
 #### Formål 
-* Repositories
-* Interfaces
+* Fortsættelse af dag 8
+* Få det de mangler af det fra sidst på plads. 
+
 ### Dag 10
+#### Formål
+* Introduktion til Databaser
+* Opret en GigaHost konto
+* opret en dabase
+* Select i IntelliJ eller DataGrib
+   * Select
+   * Insert
+   * Delete
+   * (evt. update)
+
 ### Dag 11
 ### Dag 12
 ### Dag 13
@@ -147,8 +165,6 @@ Todos in all repos
 * [#3 Annotations explained - skriv det](https://github.com/StudentsAdministration/03_annotations/blob/master/README.md)
 * [#4 Html, css (lav øvelser om table og div tags)](https://github.com/StudentsAdministration/04_agenda/blob/master/README.md)
 * [#5 Thyleaf (find literatur)](https://github.com/StudentsAdministration/05_agenda/blob/master/README.md)
-
-* [#6 Students List Tutorial](https://github.com/StudentsAdministration/06_tutorial_students_list/blob/master/README.md)
 * [#6 find literatur der forklare Model objectet] (https://github.com/StudentsAdministration/06_tutorial_students_list/blob/master/README.md)
 
 * Skriv literatur om model, model.addAttribute, thymeleaf ${stu.studentId} (passer til lek 05)
