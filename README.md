@@ -112,7 +112,7 @@ _Note: Som underviser skal du være opmærksom på at at html sider i en Spring 
 
 #### Emner i undervisningen
   
-### Dag 8
+### [Dag 8](https://github.com/StudentsAdministration/08_agenda)
 #### Formål 
 * Tilføje repositories til StudentsAdministration applikationen.
 * Lære om interfaces og fordelene ved disse
@@ -121,12 +121,12 @@ _Note: Som underviser skal du være opmærksom på at at html sider i en Spring 
    * StudentsTextFileRepository
    * Senere StudentsDbRepository
 
-### Dag 9
+### [Dag 9](https://github.com/StudentsAdministration/09_agenda)
 #### Formål 
 * Fortsættelse af dag 8
 * Få det de mangler af det fra sidst på plads. 
 
-### Dag 10
+### [Dag 10](https://github.com/StudentsAdministration/10_agenda)
 #### Formål
 * Introduktion til Databaser
 * Opret en GigaHost konto
