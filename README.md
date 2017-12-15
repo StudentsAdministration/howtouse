@@ -138,6 +138,7 @@ _Note: Som underviser skal du være opmærksom på at at html sider i en Spring 
    * (evt. update)
 
 ### Dag 11
+**_TODO: Oversæt til eng_**
 ### Dag 12
 ### Dag 13
 ### Dag 14
@@ -145,6 +146,7 @@ _Note: Som underviser skal du være opmærksom på at at html sider i en Spring 
 ### Dag 16
 ### Dag 17
 ### Dag 18
+**_TODO: Oversæt til eng_**
 ### Dag 19
 ### Dag 20
 ### Dag 21
