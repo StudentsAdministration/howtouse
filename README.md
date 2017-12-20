@@ -78,6 +78,15 @@ Det følgende giver et overblik over hver lektions formål, og hvilke emner jeg 
 
 * At lære lige præcis nok HTML og CSS til at komme igang.
 
+#### Materialer
+
+* [04_agenda](https://github.com/StudentsAdministration/04_agenda)
+* [Øvelse: Warm Up](https://github.com/StudentsAdministration/04_agenda)
+* [Øvelse: Exercise 2](https://github.com/StudentsAdministration/04_exercise_2)
+* [Øvelser: w3schools html exercises](https://www.w3schools.com/html/exercise.asp)
+* [Øvelser: w3schools css exercises](https://www.w3schools.com/css/exercise.asp)
+* [Øvelse: 02 Exercise 3: HIT](https://github.com/StudentsAdministration/04_exercise_3/blob/master/readme.md)
+
 _Note: Som underviser skal du være opmærksom på at at html sider i en Spring Boot Application har et anstrængt forhold til html5 tags. Xhtml tags understøttes. (Dette kan dog have ændret sig i de efterfølgende semestre)_ 
 
 ### [Dag 5](https://github.com/StudentsAdministration/05_agenda)    
