@@ -52,15 +52,30 @@ Det følgende giver et overblik over hver lektions formål, og hvilke emner jeg 
 * Genopfriskning af 1. semesters emner gennem gruppearbejde med Fitness Øvelsen.
 
 ### [Dag 3](https://github.com/StudentsAdministration?utf8=✓&q=03)
+
 #### Formål
+
 * De skal kunne lave et "Sprig Boot Initializer" project
 * De skal kunne lave en controller
 * De skal kunne lave en metode der returnere en index.html side
 * de skal kunne lave en index.html side (de ved ikke noget om html endnu).
 * De skal kunne se deres website i deres browser på http://loalhost:8080
 
+#### Materialer
+
+* [03_agenda](https://github.com/StudentsAdministration/03_agenda)
+* [03_hello_spring](https://github.com/StudentsAdministration/03_hello_spring)
+   * [Branch: Teacher_materials](https://github.com/StudentsAdministration/03_hello_spring/tree/teacher_materials)
+* [03_my_first_website](https://github.com/StudentsAdministration/03_my_first_website)
+* [03_spring_framework_elements_explained](https://github.com/StudentsAdministration/03_spring_framework_elements_explained)
+* [Øvelse: 03_create_spring_application](https://github.com/StudentsAdministration/03_create_spring_application)
+   * [Branch: solution](https://github.com/StudentsAdministration/03_create_spring_application/blob/solution/solution.md)
+
+
 ### [Dag 4](https://github.com/StudentsAdministration/04_agenda)
+
 #### Formål
+
 * At lære lige præcis nok HTML og CSS til at komme igang.
 
 _Note: Som underviser skal du være opmærksom på at at html sider i en Spring Boot Application har et anstrængt forhold til html5 tags. Xhtml tags understøttes. (Dette kan dog have ændret sig i de efterfølgende semestre)_ 
