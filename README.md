@@ -12,7 +12,14 @@ Alle blokke af lektioner (dage) har et identifikationsnummer som bruges som pref
 
 Hvis du vil se alt materiale til en bestemt undervisningsgang kan du også søge på feks. [01](https://github.com/StudentsAdministration?utf8=%E2%9C%93&q=01) ligesom her.    
 
-<a href="https://github.com/StudentsAdministration?utf8=%E2%9C%93&q=01"> <img src="https://github.com/StudentsAdministration/howtouse/blob/master/img/studentsadmin.png" width="300px" /></a>
+<a href="https://github.com/StudentsAdministration?utf8=%E2%9C%93&q=01"> <img src="https://github.com/StudentsAdministration/howtouse/blob/master/img/studentsadmin.png" width="300px" /></a>    
+
+## Teacher Materials Branch
+De fleste repositories har en branch med Underviser materialer. Det kan være øvelser, tutorials eller lignende i forskellige filformater (pdf, docx, tex etc.). Det kan også være mine noter til den pågældende undervisningsgang.
+
+Teacher Materials findes ved at skifte "branch" i øverste venstre hjørne.
+
+![branch chooser]()
 
 ## Agendaer 
 [<sub>Link til alle agendaer</sub>](https://github.com/StudentsAdministration?utf8=%E2%9C%93&q=agenda&type=&language=)    
