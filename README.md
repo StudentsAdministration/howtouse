@@ -19,7 +19,7 @@ De fleste repositories har en branch med Underviser materialer. Det kan være ø
 
 Teacher Materials findes ved at skifte "branch" i øverste venstre hjørne.
 
-![branch chooser](https://github.com/StudentsAdministration/howtouse/blob/master/img/branch.png)
+<a href="https://github.com/StudentsAdministration/03_hello_spring/tree/teacher_materials"> <img src="https://github.com/StudentsAdministration/howtouse/blob/master/img/branch.png" width="300px" /></a> 
 
 ## Agendaer 
 [<sub>Link til alle agendaer</sub>](https://github.com/StudentsAdministration?utf8=%E2%9C%93&q=agenda&type=&language=)    
