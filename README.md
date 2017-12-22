@@ -15,9 +15,9 @@ Hvis du vil se alt materiale til en bestemt undervisningsgang kan du også søge
 <a href="https://github.com/StudentsAdministration?utf8=%E2%9C%93&q=01"> <img src="https://github.com/StudentsAdministration/howtouse/blob/master/img/studentsadmin.png" width="300px" /></a>    
 
 ### Teacher Materials Branch
-De fleste repositories har en branch med Underviser materialer. Det kan være øvelser, tutorials eller lignende i forskellige filformater (pdf, docx, tex etc.). Det kan også være mine noter til den pågældende undervisningsgang.
+De fleste repositories har en branch med materialer til underviseren. Det kan være øvelser, tutorials eller lignende i forskellige filformater (pdf, docx, tex etc.). Det kan også være mine noter til den pågældende undervisningsgang.
 
-Teacher Materials findes ved at skifte "branch" i øverste venstre hjørne.
+"Teacher Materials" findes ved at skifte "branch" i øverste venstre hjørne.
 
 <a href="https://github.com/StudentsAdministration/03_hello_spring/tree/teacher_materials"> <img src="https://github.com/StudentsAdministration/howtouse/blob/master/img/branch.png" width="300px" /></a> 
 
