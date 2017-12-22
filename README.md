@@ -8,8 +8,7 @@ Et eksempel på en semesterplan kan du se [her](https://studentsadministration.g
 Hvis du vil redigere indholdet ligger html filerne i dette repository [studentsadministration.github.io](https://github.com/StudentsAdministration/studentsadministration.github.io)
 
 ## Alt materiale
-Alle blokke af lektioner (dage) har et identifikationsnummer. Den første undervisningsdag er nummer 01 osv. 
-Prefixet (01_ etc.) gør at alt materiale til en specifik undervisningsgang kan findes ved at søge efter f.eks. 01.     
+Alle blokke af lektioner (dage) har et identifikationsnummer som bruges som prefix (01_ etc.). Den første undervisningsdag er nummer 01 osv.    
 
 Hvis du vil se alt materiale til en bestemt undervisningsgang kan du også søge på feks. [01](https://github.com/StudentsAdministration?utf8=%E2%9C%93&q=01) ligesom her.    
 
