@@ -111,7 +111,7 @@ _Note: Som underviser skal du være opmærksom på at at html sider i en Spring 
 
 ### [Dag 6](https://github.com/StudentsAdministration/06_agenda)
 #### Formål 
-* Fortsættelse af sidste gang med resten af CRUD medtoderne og lave disse sider:
+* Fortsættelse af sidste gang med resten af CRUD metoderne og lave disse sider:
 <img src="/img/create.png" width="300px" />
 <img src="/img/details.png" width="300px" />
 <img src="/img/update.png" width="300px" />
