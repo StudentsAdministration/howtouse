@@ -158,7 +158,7 @@ _Note: Som underviser skal du være opmærksom på at at html sider i en Spring 
 
 ### [Dag 10](https://github.com/StudentsAdministration/10_agenda)
 #### Formål
-* Introduktion til Databaser
+* Introduktion til Databaser og JDBC i IntelliJ
 * Opret en GigaHost konto
 * opret en dabase
 * Select i IntelliJ eller DataGrib
@@ -166,6 +166,10 @@ _Note: Som underviser skal du være opmærksom på at at html sider i en Spring 
    * Insert
    * Delete
    * (evt. update)
+
+Materialer
+* [Tutorial: MySql JDBC in a Spring Project](https://github.com/StudentsAdministration/11_Tutorial_MySql_JDBC)
+
 
 ### Dag 11
 **_TODO: Oversæt til eng_**
